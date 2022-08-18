@@ -1,0 +1,101 @@
+{
+  "type": "ca",
+  "data": [
+    {
+      "myName": "CAP",
+      "myIdentifier": "02079K107"
+    },
+    {
+      "myName": "DIV",
+      "myIdentifier": "02079K107"
+    },
+    {
+      "myName": "EAR",
+      "myIdentifier": "02079K107"
+    },
+    {
+      "myName": "EAR",
+      "myIdentifier": "02079K107"
+    },
+    {
+      "myName": "VOT",
+      "myIdentifier": "02079K107"
+    },
+    {
+      "myName": "SHO",
+      "myIdentifier": "02079K107"
+    },
+    {
+      "myName": "NOM",
+      "myIdentifier": "02079K107"
+    },
+    {
+      "myName": "MNA",
+      "myIdentifier": "ALVG.DE"
+    },
+    {
+      "myName": "MNA",
+      "myIdentifier": "ALVG.DE"
+    },
+    {
+      "myName": "PEO",
+      "myIdentifier": "ALVG.DE"
+    },
+    {
+      "myName": "SHO",
+      "myIdentifier": "ALVG.DE"
+    },
+    {
+      "myName": "EAR",
+      "myIdentifier": "ALVG.DE"
+    },
+    {
+      "myName": "DIV",
+      "myIdentifier": "ALVG.DE"
+    },
+    {
+      "myName": "CAP",
+      "myIdentifier": "ALVG.DE"
+    },
+    {
+      "myName": "NOM",
+      "myIdentifier": "IBM.N"
+    },
+    {
+      "myName": "EAR",
+      "myIdentifier": "IBM.N"
+    },
+    {
+      "myName": "EAR",
+      "myIdentifier": "IBM.N"
+    },
+    {
+      "myName": "NOM",
+      "myIdentifier": "ALVG.DE"
+    },
+    {
+      "myName": "VOT",
+      "myIdentifier": "ALVG.DE"
+    },
+    {
+      "myName": "VOT",
+      "myIdentifier": "IBM.N"
+    },
+    {
+      "myName": "DIV",
+      "myIdentifier": "IBM.N"
+    },
+    {
+      "myName": "SHO",
+      "myIdentifier": "IBM.N"
+    },
+    {
+      "myName": "CAP",
+      "myIdentifier": "IBM.N"
+    },
+    {
+      "myName": "MNA",
+      "myIdentifier": "IBM.N"
+    }
+  ]
+}
