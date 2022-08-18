@@ -1,21 +1,16 @@
 {
     "version": 2,
+    "name": "integrow",
     "builds": [
         {
-            "src": "vercel/output/main.js",
+            "src": "dist/main.js",
             "use": "@vercel/node"
         }
     ],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "vercel/output/main.js",
-            "methods": [
-                "GET",
-                "POST",
-                "PUT",
-                "DELETE"
-            ]
+            "dest": "dist/main.js"
         }
     ]
 }
