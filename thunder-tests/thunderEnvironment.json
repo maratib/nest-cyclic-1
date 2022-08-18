@@ -5,10 +5,10 @@
     "default": true,
     "sortNum": 10000,
     "created": "2022-07-13T17:48:08.070Z",
-    "modified": "2022-08-18T17:03:22.575Z",
+    "modified": "2022-08-18T19:19:56.548Z",
     "data": [
       {
-        "name": "API1",
+        "name": "API",
         "value": "http://localhost:3000/api/v1"
       },
       {
@@ -16,7 +16,7 @@
         "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1vb25AZ21haWwuY29tIiwic3ViIjoxLCJpYXQiOjE2NjAzNTE0NzcsImV4cCI6MTY2MTIxNTQ3N30.o9M2t0PUKAEwca4Xwx0kTY1XHCLS7TvdtH50bGbgWq0"
       },
       {
-        "name": "API",
+        "name": "API1",
         "value": "https://nest-cyclic-1.vercel.app/api/v1"
       }
     ]
