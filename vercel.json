@@ -2,14 +2,14 @@
     "version": 2,
     "builds": [
         {
-            "src": "/vercel/output/main.js",
+            "src": "vercel/output/main.js",
             "use": "@vercel/node"
         }
     ],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "/vercel/output/main.js",
+            "dest": "vercel/output/main.js",
             "methods": [
                 "GET",
                 "POST",
